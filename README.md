@@ -1,45 +1,94 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Love-Running
+HTML and CSS challenge to create a responsive website on all platforms.
 
-Welcome USER_NAME,
+[View live project here!](https://valencia-08.github.io/Love-Running/)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This was my first ever challenge combining the two languages to create a fully responsive website with a nice design element to it.
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+# Design
 
-A blue button should appear to click: *Make Public*,
+## Color Scheme
 
-Another blue button should appear to click: *Open Browser*.
+- The main theme of the site is black and white 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Typography 
 
-A blue button should appear to click: *Make Public*,
+- Oswald and Lato are the main fonts used throughout the website 
 
-Another blue button should appear to click: *Open Browser*.
+## Imagery
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- The images were provided but add a nice and soft touch to the message and also the colour scheme.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+# Features
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- Responsive on all devices.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Technologies Used 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- HTML5
+- CSS
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Frameworks, Libraries and Programs Used
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+- [Hover.css](https://ianlunn.github.io/Hover/) - The Hover feaauture was used on the naviagtion pane 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- [Google Fonts](https://fonts.google.com/) - Google fonts was used to import 'Oswald' and 'Lato'
 
---------
+- [Font Awesome](https://fontawesome.com/) - Font Awesome was used to import the icons in the home page and also for the social media icons in the footer of each page
 
-Happy coding!
+- [Repl.it](https://repl.it/) - Repl.it was used to create the files and style them
+
+- [Gitpod](https://www.gitpod.io/) - Gitpod was used to import those files to further edit and collaborate with other developers
+
+- [Git](https://git-scm.com/) - Git was used to allow the Gitpod terminal to commit to Git and Push to GitHub 
+
+- [GitHub](https://github.com/) - GitHub was used to store the projects after being pushed from Git
+
+
+# Deployment 
+
+## GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+- Log in to [GitHub](https://github.com/) and locate the GitHub Repository
+
+- At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+- Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+- Under "Source", click the dropdown called "None" and select "Master Branch".
+
+- The page will automatically refresh.
+
+- Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+# Testing
+
+## Known Bugs
+
+- On some phone sizes approximately 600px - 800px the navigation pane falls on another line instead of maintaining form 
+
+# Credit
+
+## Code
+
+- The code comes from a step by step challenge set by teh Code Institute in the [Full-stack Software Development Diploma](https://codeinstitute.net/full-stack-software-development-diploma-uk/?utm_expid=.E_bf0H2MSRWB3VqLwMyfkg.1&utm_referrer=). 
+
+## Content
+
+- Content was supplied by The Code Institute
+
+## Media
+
+- Media was supplied by The Code Institute
+
+## Acknowledgements 
+
+- The Code Institute for all of the materials
+
+- The lecturers for the informative and easy to learn tutorial videos
